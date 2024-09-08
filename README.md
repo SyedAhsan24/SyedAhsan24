@@ -4,10 +4,10 @@
 
 - 💡 Excited to collaborate on projects and learn from the vibrant GitHub community. Let's build something amazing together!
   
-🚀 Open to feedback and always striving to level up my coding skills. Reach out—I'd love to connect!
+- 🚀 Open to feedback and always striving to level up my coding skills. Reach out—I'd love to connect!
 
-- 📫 How to reach me syedahsan94040@gmail.com
-  
+-📫 How to reach me syedahsan94040@gmail.com
+        
 - #CodeDreamCreate #FrontendDev #HTML #CSS #JavaScript
 
 
